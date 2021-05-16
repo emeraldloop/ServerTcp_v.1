@@ -42,7 +42,8 @@ namespace ClientTcp
 
 
             Console.ReadLine();
-
+            Console.ReadLine();
+            Console.ReadLine();
 
 
         }
