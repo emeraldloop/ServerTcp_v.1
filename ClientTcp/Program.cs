@@ -41,8 +41,7 @@ namespace ClientTcp
             tcpSocket.Close();
 
 
-            Console.ReadLine();
-
+         
 
 
         }

@@ -35,8 +35,6 @@ namespace ServerTcp
 
                 listener.Send(Encoding.UTF8.GetBytes("Успех"));
 
-                listener.Shutdown(SocketShutdown.Both);
-                listener.Close();
 
             }
         
